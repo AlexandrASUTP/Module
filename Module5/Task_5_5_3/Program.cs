@@ -27,7 +27,6 @@ namespace Task_5_5_3
             if (deep > 1)
             {
                 Echo(modif, deep - 1);
-                
             }
         }
     }
